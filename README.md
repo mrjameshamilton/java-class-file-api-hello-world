@@ -10,13 +10,13 @@ https://github.com/mrjameshamilton/jep457-hello-world/blob/ea854cda0e058d728630a
 
 # Building
 
-You'll need JDK 24 and easiest way to install this on Linux is with [SDK man](https://sdkman.io/):
+You'll need at least JDK 24 and easiest way to install the latest Java on Linux is with [SDK man](https://sdkman.io/):
 
 ```shell
-sdk install java 24.ea.36-open
+sdk install java 26.0.1-open
 ```
 
-If you have Java 24, you can execute the `Main.java` file which will produce a new class file `HelloWorld.class`:
+If you have Java 26, you can execute the `Main.java` file which will produce a new class file `HelloWorld.class`:
 
 ```shell
 $ java Main.java
